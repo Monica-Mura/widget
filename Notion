@@ -1,0 +1,8 @@
+if (hrs < 12)
+        greet = 'Good Morning Monica Muñoz  ';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon Monica Muñoz';
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening Monica Muñoz ';
+
+
